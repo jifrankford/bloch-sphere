@@ -1,1 +1,1 @@
-# blochSphere
+# bloch-sphere
